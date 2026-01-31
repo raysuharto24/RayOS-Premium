@@ -24,4 +24,9 @@ Portuguese
 Russian
 Spanish
 
+Offered versions:
+1. Premium
+2. Cebuano
+3. Basic
+
 Copyright © 2026
