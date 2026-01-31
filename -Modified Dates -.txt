@@ -8,5 +8,6 @@ OS:
 Addons:
 1. Minecraft.bat - 27 OCT 2025
 2. MiniCasino.bat - 6 DEC 2025
+3. PizzaGme.bat - 31 MAY 2025
 
 Copyright © 2026
