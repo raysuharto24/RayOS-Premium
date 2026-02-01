@@ -1,0 +1,14 @@
+echo.
+set /p lang=Enter choice (1-10): 
+if "%lang%"=="1" set language=English & goto desktop-eng
+if "%lang%"=="2" set language=Dutch & goto desktop-du
+if "%lang%"=="3" set language=Filipino & goto desktop-fil
+if "%lang%"=="4" set language=French & goto desktop-fr
+if "%lang%"=="5" set language=German & goto desktop-ger
+if "%lang%"=="6" set language=Indonesian & goto desktop-ind
+if "%lang%"=="7" set language=Italian & goto desktop-it
+if "%lang%"=="8" set language=Portuguese & goto desktop-pt
+if "%lang%"=="9" set language=Russian & goto desktop-ru
+if "%lang%"=="10" set language=Spanish & goto desktop-sp
+echo Invalid choice! Try again.
+echo.
