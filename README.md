@@ -1,4 +1,4 @@
-## AltrayOS-Premium
+# AltrayOS-Premium
 This is a batch file-based mock-operating system made in 2025.
 
 OS Password = Password
