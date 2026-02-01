@@ -1,0 +1,10 @@
+echo ====================================
+echo From: RayOS Premium Developers
+echo Subject: Welcome
+echo ====================================
+echo Welcome to RayOS Premium
+echo We are glad you are using our
+echo operating system. Enjoy exploring
+echo your new easy to use tool.
+echo ====================================
+pause

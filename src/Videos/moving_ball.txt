@@ -1,0 +1,23 @@
+echo.
+echo Filename: movingball.vid
+echo.
+echo O
+ping -n 2 localhost >nul
+cls
+echo.
+echo Filename: movingball.vid
+echo.
+echo  O
+ping -n 2 localhost >nul
+cls
+echo.
+echo Filename: movingball.vid 
+echo.
+echo   O
+ping -n 2 localhost >nul
+cls 
+echo.
+echo Filename: movingball.vid
+echo.
+echo Video has ended
+pause >nul
