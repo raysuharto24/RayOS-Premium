@@ -15,11 +15,8 @@ Drag the second folder out of the first folder and drag into Desktop.
 Then resume with the instructions.
 
 ## To open the OS:
-1. Press "Win"+"R" then type "cmd" then enter.
-2. Type "cd C:\Users\admin\Desktop\RayOS-Premium-main" and enter.
-3. Type "RayOS_Premium.bat" then enter.
+1. Just double click the file.
 
-Or you can just simply double-click the file.
 
 ## Available languages in the OS:
 English
@@ -32,10 +29,5 @@ Italian
 Portuguese
 Russian
 Spanish
-
-## Offered versions:
-1. Premium
-2. Cebuano
-3. Basic
 
 Copyright © 2026
